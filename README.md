@@ -1,4 +1,4 @@
-# Монгол хэлний Text Summarization Model-ууд
+# Монгол хэлний Text Summarization Model -ууд
 
 Монгол хэл дээр **Text Summarization**, **Title Generation**, **Keywords Extraction** task -уудад зориулан fine-tuning хийсэн 5 model -ийг энэхүү repo -д оруулсан. Model -уудыг **PEFT / LoRA** аргачлалаар өөрийн бэлдсэн монгол хэлний dataset дээр fine-tuning хийж, гүйцэтгэлийг сайжруулсан.
 
