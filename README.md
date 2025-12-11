@@ -52,6 +52,7 @@ Summarization, Title generation, Keywords extraction task -уудыг нэг mod
 
 ## Ашигласан технологи
 
+- HuggingFace, Google Colab
 - Transformers, Datasets, PEFT-LoRA  
 - Google Batch Translate  
 - Hugging Face Inference Endpoint  
@@ -62,6 +63,6 @@ Summarization, Title generation, Keywords extraction task -уудыг нэг mod
 
 ## Товч дүгнэлт
 
-Model -уудаас **mBART-50-large** нь Монгол хэл дээр хамгийн өндөр чанартай хураангуй үүсгэсэн. Бусад mT5 суурьтай model -ууд мөн сайн гүйцэтгэлтэй бөгөөд Multitask хувилбар нь нэг model -оор олон task гүйцэтгэх боломжтой.
+Model -уудаас **facebook/mBART-50-large** болон **google/mT5-Base** Монгол хэл дээр хамгийн өндөр чанартай хураангуй үүсгэсэн. Бусад model -ууд мөн сайн гүйцэтгэлтэй бөгөөд Multitask хувилбар нь нэг model -оор олон task гүйцэтгэх боломжтой.
 
 ---
