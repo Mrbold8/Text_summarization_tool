@@ -6,7 +6,7 @@
 
 ## 📄 Судалгааны ажлын тайлан
 
-[![Тайланг харах (PDF)](https://github.com/Mrbold8/Text_summarization_tool/blob/main/%D0%A1%D1%83%D0%B4%D0%B0%D0%BB%D0%B3%D0%B0%D0%B0%D0%BD%D1%8B_%D0%B0%D0%B6%D0%B8%D0%BB.pdf)
+[Судалгааны ажилтай дэлгэрэнгүй танилцах](https://github.com/Mrbold8/Text_summarization_tool/blob/main/%D0%A1%D1%83%D0%B4%D0%B0%D0%BB%D0%B3%D0%B0%D0%B0%D0%BD%D1%8B_%D0%B0%D0%B6%D0%B8%D0%BB.pdf)
 
 ---
 
